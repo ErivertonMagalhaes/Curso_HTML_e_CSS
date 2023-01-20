@@ -48,16 +48,6 @@ a::before{
     transform: scale(1.08); 
 }
 
-div{
-    height: 184px;
-    width: 627px;
-    left: 91px;
-    top: 196px;
-    border-radius: 0px;
-    background-color: #3A4042;
-    ;
-}
-
 .botton2{
     height: 60px;
     width: 170px;

@@ -1,0 +1,27 @@
+ .banner{
+    box-sizing: border-box;
+    background-image: url(../../assets/img/imagem_pequena.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: 100%;
+    border-bottom: 10px solid black;
+    padding-left: 90px;
+    padding-top: 115px;
+ }
+
+ .banner .wrapper{
+    display: flex; 
+    flex-direction: column;
+    width: 818px;
+   
+ }
+
+.banner .box{
+   margin-bottom: 40px;
+
+}
+
+ .banner .navigation{
+   display: flex;
+   justify-content: space-evenly;
+ }

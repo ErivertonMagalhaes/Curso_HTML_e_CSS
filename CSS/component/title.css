@@ -8,3 +8,9 @@
     letter-spacing: 0em;
     color: #7E2E84;
 }
+
+.title.-second{
+    color: #7E2E84;
+    text-shadow: none;
+    text-align: center;
+}

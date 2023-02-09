@@ -1,5 +1,4 @@
-@charset "UTF-8";
-.title{
+.main-title{
     font-family: 'Press Start 2P', sans-serif;
     text-shadow: 4px 4px 0 black;
     font-size: 40px;
@@ -9,7 +8,7 @@
     color: #7E2E84;
 }
 
-.title.-second{
+.main-title.-second{
     color: white;
     text-shadow: none;
     text-align: center;

@@ -1,0 +1,11 @@
+.porgress-bar{
+    box-sizing: border-box;
+    background-color: white;
+    height: 40px;
+    border: 5px solid black;
+
+}
+
+.porgress-bar::-moz-progress-bar,.porgress-bar::-webkit-progress-bar{
+    background-color: #7C5E99;
+}

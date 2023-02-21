@@ -7,3 +7,11 @@
 .section .main-title {
     margin-bottom: 60px;
 }
+
+.section.-bgBlack{
+    background-color: black;
+}
+
+.section.-bdOrange{
+    border-color: #FF4F2C;
+}
